@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T11:02:11.767Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GhQwQrtVdv0gAeUnyQFO" version="15.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-10T05:27:23.866Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="rZYcYFOb9SWi5ZB7IgX5" version="15.7.1" type="github" pages="3">
   <diagram id="Iv0TsWzNUcxup8wrtmWx" name="HealthTech-Nonprod">
     <mxGraphModel dx="2148" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -145,13 +145,13 @@
       <root>
         <mxCell id="PPcV-7EvvThPv5WK1RFM-0" />
         <mxCell id="PPcV-7EvvThPv5WK1RFM-1" parent="PPcV-7EvvThPv5WK1RFM-0" />
-        <mxCell id="C12rq-ObItmO6U2Y_XT_-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PPcV-7EvvThPv5WK1RFM-1">
+        <mxCell id="C12rq-ObItmO6U2Y_XT_-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="PPcV-7EvvThPv5WK1RFM-1" vertex="1">
           <mxGeometry x="135" y="80" width="625" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="PPcV-7EvvThPv5WK1RFM-2" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks;" vertex="1" parent="PPcV-7EvvThPv5WK1RFM-1">
+        <mxCell id="PPcV-7EvvThPv5WK1RFM-2" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks;" parent="PPcV-7EvvThPv5WK1RFM-1" vertex="1">
           <mxGeometry x="140" y="50" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C12rq-ObItmO6U2Y_XT_-1" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=svc" vertex="1" parent="PPcV-7EvvThPv5WK1RFM-1">
+        <mxCell id="C12rq-ObItmO6U2Y_XT_-1" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=svc" parent="PPcV-7EvvThPv5WK1RFM-1" vertex="1">
           <mxGeometry x="150" y="120" width="50" height="48" as="geometry" />
         </mxCell>
       </root>
@@ -162,6 +162,21 @@
       <root>
         <mxCell id="gXuaPHDvPxhYhCeo7n1M-0" />
         <mxCell id="gXuaPHDvPxhYhCeo7n1M-1" parent="gXuaPHDvPxhYhCeo7n1M-0" />
+        <mxCell id="mvX4d71er0_JrvmuGQZV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gXuaPHDvPxhYhCeo7n1M-1" source="mvX4d71er0_JrvmuGQZV-0" target="mvX4d71er0_JrvmuGQZV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvX4d71er0_JrvmuGQZV-0" value="gitlab cloud_arv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gXuaPHDvPxhYhCeo7n1M-1">
+          <mxGeometry x="120" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvX4d71er0_JrvmuGQZV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gXuaPHDvPxhYhCeo7n1M-1" source="mvX4d71er0_JrvmuGQZV-1" target="mvX4d71er0_JrvmuGQZV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvX4d71er0_JrvmuGQZV-1" value="gitlab-runner&lt;br&gt;core" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gXuaPHDvPxhYhCeo7n1M-1">
+          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvX4d71er0_JrvmuGQZV-3" value="eks cluster" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gXuaPHDvPxhYhCeo7n1M-1">
+          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
